@@ -40,3 +40,13 @@ rosdep install --from-paths src --ignore-src -y -r
 colcon build --symlink-install
 source install/setup.bash
 ```
+
+## Atualização do Workspace
+
+Para sincronizar todos os repositórios locais com as versões mais recentes presentes no GitHub utilize o comando:
+
+```bash
+vcs pull src
+```
+
+Este comando percorre recursivamente todos os repositórios dentro do diretório src e executa a atualização de cada um deles.
