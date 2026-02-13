@@ -1,5 +1,5 @@
 repositories:
-  # SEUS PACOTES (Repositórios próprios)
+  
   src/work_description:
     type: git
     url: https://github.com/julioGSabka/work_description.git
@@ -12,8 +12,6 @@ repositories:
     type: git
     url: https://github.com/julioGSabka/work_simulation.git
     version: main
-
-  # PACOTES DE TERCEIROS (Seus forks)
   src/work_laser_scan_merger:
     type: git
     url: https://github.com/julioGSabka/work_laser_scan_merger.git
