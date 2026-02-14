@@ -15,5 +15,12 @@ repositories:
   src/work_laser_scan_merger:
     type: git
     url: https://github.com/julioGSabka/work_laser_scan_merger.git
-    version: ros2
-  
+    version: main
+  src/sllidar_ros2:
+    type: git
+    url: https://github.com/julioGSabka/sllidar_ros2.git
+    version: main
+  src/work_expansion_hub_driver:
+    type: git
+    url: https://github.com/julioGSabka/work_expansion_hub_driver.git
+    version: main
