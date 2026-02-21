@@ -24,3 +24,11 @@ repositories:
     type: git
     url: https://github.com/julioGSabka/work_expansion_hub_driver.git
     version: main
+  src/work_main:
+    type: git
+    url: https://github.com/julioGSabka/work_main.git
+    version: main
+    
+    
+    
+    

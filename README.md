@@ -22,7 +22,7 @@ Crie a estrutura do workspace e clone este repositório base:
 ```bash
 mkdir -p ~/work_robot_ws/src
 cd ~/work_robot_ws
-git clone [https://github.com/julioGSabka/work_robot_ws.git](https://github.com/julioGSabka/work_robot_ws.git)
+git clone https://github.com/julioGSabka/work_robot_ws.git
 ```
 
 ### 3. Importação de Repositórios Externos
