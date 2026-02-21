@@ -34,6 +34,7 @@ vcs import src < work_project.repos
 ### 4. Resolução de Dependências e Compilação
 Instale as dependências de sistema via rosdep e realize o build do workspace utilizando o colcon:
 ```bash
+sudo rosdep init #Apenas na primeira vez
 rosdep update
 rosdep install --from-paths src --ignore-src -y -r
 
