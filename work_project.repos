@@ -1,30 +1,30 @@
 repositories:
   
-  src/work_description:
+  work_description:
     type: git
     url: https://github.com/julioGSabka/work_description.git
     version: main
-  src/work_navigation:
+  work_navigation:
     type: git
     url: https://github.com/julioGSabka/work_navigation.git
     version: main
-  src/work_simulation:
+  work_simulation:
     type: git
     url: https://github.com/julioGSabka/work_simulation.git
     version: main
-  src/work_laser_scan_merger:
+  work_laser_scan_merger:
     type: git
     url: https://github.com/julioGSabka/work_laser_scan_merger.git
     version: main
-  src/sllidar_ros2:
+  sllidar_ros2:
     type: git
     url: https://github.com/julioGSabka/sllidar_ros2.git
     version: main
-  src/work_expansion_hub_driver:
+  work_expansion_hub_driver:
     type: git
     url: https://github.com/julioGSabka/work_expansion_hub_driver.git
     version: main
-  src/work_main:
+  work_main:
     type: git
     url: https://github.com/julioGSabka/work_main.git
     version: main

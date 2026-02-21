@@ -20,15 +20,15 @@ sudo apt-get install python3-vcstool python3-rosdep
 ### 2. Clonagem e Inicialização
 Crie a estrutura do workspace e clone este repositório base:
 ```bash
-mkdir -p ~/work_robot_ws/src
-cd ~/work_robot_ws
 git clone https://github.com/julioGSabka/work_robot_ws.git
+cd ~/work_robot_ws
+mkdir -p src
 ```
 
 ### 3. Importação de Repositórios Externos
 Utilize o arquivo de definição .repos para baixar as versões específicas de cada pacote:
 ```bash
-vcs import src < work_robot.repos
+vcs import src < work_project.repos
 ```
 
 ### 4. Resolução de Dependências e Compilação
