@@ -2,31 +2,31 @@ repositories:
   
   work_description:
     type: git
-    url: https://github.com/julioGSabka/work_description.git
+    url: https://github.com/CavaloVenddado/work_description.git
     version: main
   work_navigation:
     type: git
-    url: https://github.com/julioGSabka/work_navigation.git
+    url: https://github.com/CavaloVenddado/work_navigation.git
     version: main
   work_simulation:
     type: git
-    url: https://github.com/julioGSabka/work_simulation.git
+    url: https://github.com/CavaloVenddado/work_simulation.git
     version: main
   work_laser_scan_merger:
     type: git
-    url: https://github.com/julioGSabka/work_laser_scan_merger.git
+    url: https://github.com/CavaloVenddado/work_laser_scan_merger.git
     version: main
   sllidar_ros2:
     type: git
-    url: https://github.com/julioGSabka/sllidar_ros2.git
+    url: https://github.com/CavaloVenddado/sllidar_ros2.git
     version: main
   work_expansion_hub_driver:
     type: git
-    url: https://github.com/julioGSabka/work_expansion_hub_driver.git
+    url: https://github.com/CavaloVenddado/work_expansion_hub_driver.git
     version: main
   work_main:
     type: git
-    url: https://github.com/julioGSabka/work_main.git
+    url: https://github.com/CavaloVenddado/work_main.git
     version: main
     
     
